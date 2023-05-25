@@ -7,6 +7,7 @@ The gates of shell is a project in the first trimester, that helps student to un
 Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh).
 This program was written entirely in C Language.
 
+And Thanks ALX for this amazing oppurtunity.
 
 ## Description :
 
