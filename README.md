@@ -76,7 +76,7 @@ ls -la
 ## Contributors :
 
 - Josh-Techie
-- Chaimae Elfeloulli
+- Chaimaeelfellioui
 
 ## Acknowledgments :
 
