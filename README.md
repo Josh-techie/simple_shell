@@ -33,6 +33,8 @@ Our shell was built and tested on Ubuntu 14.04 LTS.
 - Handle the comments #
 - Support the history feature
 - Support the file input
+###Note: 
+Not all these functionnalities could be done, but we realized most of them.
 
 ## Builtins
 
