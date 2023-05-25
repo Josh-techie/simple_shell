@@ -84,3 +84,7 @@ ls -la
 - Our software engineer-in-residence.
 - Betty Holberton | Alx-Africa .
 
+## License
+
+This project is licensed under the terms of the MIT License. See the [LICENSE](LICENSE) file for details.
+
