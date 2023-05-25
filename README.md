@@ -11,7 +11,7 @@ And Thanks ALX for this amazing oppurtunity.
 
 ## Description :
 
-This is a shell written in C. It is based on the Thompson Shell.
+This is a shell written in C. It is based on the Thompson Shell, with the help of ALX ressources/materials.
 
 ## Environment :
 
