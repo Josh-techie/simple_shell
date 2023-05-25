@@ -1,12 +1,12 @@
 #include "shell.h"
 
 /**
-* _strcmp - compares two strings
-* @s1: compared to s2;
-* @s2: compared to s1;
-*
-* Return: returns difference between strings
-*/
+ * _strcmp - compares two strings
+ * @s1: first string
+ * @s2: second string
+ *
+ * Return: difference between s1 and s2
+ */
 int _strcmp(char *s1, char *s2)
 {
 	int i = 0, output;
@@ -20,11 +20,11 @@ int _strcmp(char *s1, char *s2)
 }
 
 /**
-* _strlen - returns the length of a string
-* @s: string passed
-*
-* Return: returns length of string passed
-*/
+ * _strlen - returns the length of a string
+ * @s: string
+ *
+ * Return: length of the string
+ */
 int _strlen(char *s)
 {
 	int count = 0;
@@ -38,13 +38,13 @@ int _strlen(char *s)
 }
 
 /**
-* _strncmp - compares two strings up to n bytes
-* @s1: compared to s2
-* @s2: compared to s1
-* @n: number of bytes
-*
-* Return: difference between s1 and s2
-*/
+ * _strncmp - compares two strings up to n bytes
+ * @s1: first string
+ * @s2: second string
+ * @n: number of bytes
+ *
+ * Return: difference between s1 and s2
+ */
 int _strncmp(char *s1, char *s2, int n)
 {
 	int i;
@@ -58,11 +58,11 @@ int _strncmp(char *s1, char *s2, int n)
 }
 
 /**
-* _strdup - dupicates string
-* @s: to be duplicated
-*
-* Return: pointer to duplicate string
-*/
+ * _strdup - duplicates a string
+ * @s: string to duplicate
+ *
+ * Return: pointer to the duplicate string
+ */
 char *_strdup(char *s)
 {
 	char *ptr;
@@ -84,13 +84,13 @@ char *_strdup(char *s)
 }
 
 /**
-* _strchr - locates a character in a string
-* @s: string to be checked
-* @c: character to be located
-*
-* Return: returns pointer to first occurence of character
-* or NULL if character not found
-*/
+ * _strchr - locates a character in a string
+ * @s: string to be checked
+ * @c: character to be located
+ *
+ * Return: pointer to the first occurrence of the character
+ * or NULL if the character is not found
+ */
 char *_strchr(char *s, char c)
 {
 	while (*s)
