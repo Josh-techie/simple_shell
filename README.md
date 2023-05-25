@@ -7,10 +7,6 @@ The gates of shell is a project in the first trimester, that helps student to un
 Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh).
 This program was written entirely in C Language.
 
-## COPYRIGHT
-
-Copyright (C) 2022 by Reny Kipkoech and Stellah Mbao
-All rights reserved
 
 ## Description :
 
@@ -50,12 +46,6 @@ Our shell has support for the following built-in commands:
 | `unsetenv [var]` | Remove an environment variable.                                            |
 | `cd [dir]` | Change the directory.                                                       |
 | `help [built-in]`  | Read documentation for a built-in.                                         |
-
-## Installation : Getting HSH
-
-Clone the below repository and compile the files into an executable using the GCC compiler.
-
-    https://github.com/StellahMbao/simple_shell.git
 
 ## Basic usage :bulb:
 
